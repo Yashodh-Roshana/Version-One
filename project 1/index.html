@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>META 4</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <form id="mainForm"><br>
+        <h1>•INTEREST CALCULATOR•</h1>
+        <div id="div1">
+            <label for="principal">• S Amount : </label>
+            <input type="number" id="principal"><br><br>
+        </div>
+
+        <div id="div2">
+            <label for="interest">• Interest :  </label>
+            <input type="number" id="interest"><br><br>
+        </div>
+
+        <div id="div3">
+            <label for="time">• Years Nu : </label>
+            <input type="number" id="time"><br><br>
+        </div>
+
+        <button type="button" class="button" onclick="calculateInterest()">SUBMIT</button>
+
+        <label id="totalAmount" class="totalAmount">TOTAL = $0.00</label><br><br>
+    </form>
+
+    <script src="index.js"></script>
+</body>
+</html>
