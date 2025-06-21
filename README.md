@@ -1,2 +1,2 @@
-# This repository contains some of the projects made by Yashodh Roshana Kodagoda for testing purposes and fun
-# Made by kodagodage yashodh roshana 2025
+# this repository contains code Made By Yashodh Roshana himself for testing perposes and fun
+# please note Yashodh Roshana Kodagodage is the solo dev behind all of this
